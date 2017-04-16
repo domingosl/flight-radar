@@ -1,0 +1,22 @@
+{
+  "name": "flight-radar",
+  "version": "1.0.0",
+  "description": "A terminal application for visualizing airplane traffic in real time",
+  "main": "app.js",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "request": "^2.76.0",
+    "sqlite3": "^3.1.8",
+    "tab": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "airplane",
+    "radar"
+  ],
+  "author": "Domingo Lupo",
+  "license": "ISC"
+}

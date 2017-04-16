@@ -1,0 +1,4 @@
+/node_modules/
+flights.db
+flights.db-journal
+/.idea/
