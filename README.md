@@ -3,7 +3,7 @@ Flight Radar
 
 Real time air traffic on the terminal.
 
-![alt text](http://domingolupo.com/wp-content/uploads/2017/04/term.png "Term Animation")
+![alt text](https://media.giphy.com/media/xUPGcBiFj1vIv33KU0/giphy.gif "Term Animation")
 
 Clone this repo and install it by:
 
